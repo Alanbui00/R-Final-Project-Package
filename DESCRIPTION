@@ -1,0 +1,13 @@
+Package: NewPackage
+Type: Package
+Title: Contain different useful functions
+Version: 0.0.0.9000
+Author: Alan Bui
+Maintainer: The package maintainer <alanbui@usf.edu>
+Description: contain different funcitons that can be used, some shortcuts . 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+
+
